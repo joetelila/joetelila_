@@ -17,23 +17,23 @@ organizations:
 bio: Msc student in Computer Science | 💚 Data
 
 # Interests to show in About widget
+# List from https://www.upgrad.com/blog/different-specializations-of-data-science/
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning.
+- Data Engineering and Data Warehousing.
+- Data Mining and Statistical Analysis.
+- Time series analysis.
+- Natural Language Processing.
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Msc in Computer Science, AI curriculum
+    institution: Univerisity of Pisa
+    year: Sept 2020 - Ongoing.
+  - course: BSc in Computer Science
+    institution: Addis Ababa University
+    year: 2013 - 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,19 +42,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:joe.telila@gmail.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/joetelila
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/joetelila
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/joetelila/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +67,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a second year masters degree in computer science student at University of Pisa. I have experience in statistical programming, data processing, data visualization and applying predictive models. I have worked in educational institutions, start-ups and non-profit sectors. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I recieved my bachelor's degree in computer science from Addis Ababa University in 2017. During the course of my academic and career I managed to work on projects that I have listed below, where I learned valuable skills such as time management, team collaboration and making critical decisions. Whether working on academic, extracurricular, or professional projects, I apply proven communication, leadership and teamwork skills.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}[not ready yet] Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

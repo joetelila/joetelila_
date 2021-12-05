@@ -9,26 +9,50 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Super Powers
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- icon: "scikit-learn-seeklogo.com"
+  icon_pack: "custom"
+  #name: "Scikit Learn"
+  #description: "90%"
 
+- icon: "keras-text"
+  icon_pack: "custom"
+  #name: "Keras"
+  #description: "90%"
+
+- icon: "tensorflow-tf"
+  icon_pack: "custom"
+  #name: "Tensorflow"
+  #description: "90%"
+- #description: 90%
+  icon: "SpaCy_logo"
+  icon_pack: "custom"
+  #name: "Spacy"  
+- #description: 100%
+  icon: "tableau-software"
+  icon_pack: "custom"
+  #name: Tableau
+- #description: 10%
+  icon: "pandas"
+  icon_pack: "custom"
+  #name: "Python"
+- #description: 10%
+  icon: "java"
+  icon_pack: "custom"
+  #name: "Python"
+- #description: 10%
+  icon: "c++_f"
+  icon_pack: "custom"
+- #description: 10%
+  icon: "python_f"
+  icon_pack: "custom"
+  #name: "Python"
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
@@ -39,8 +63,6 @@ feature:
 # Place your custom SVG icon in `assets/media/icons/`.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 # For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
+
+
 ---

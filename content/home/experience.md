@@ -22,28 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: Data Science Intern.
+    company: Salesoar
+    company_url: 'https://www.salesoar.com'
+    company_logo: salesoar
+    location: Florence, Italy.
+    date_start: '2021-08-01'
+    date_end: '2021-10-01'
     description: |2-
-        Responsibilities include:
+        Analyzed Google Ad campaign data and presented it in interpretable plots using Tableau to provide business insights and support decision making process. Trained and deployed a model to predict cost and conversion value for a given CPC bid.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Academic and Research Assistant
+    company: Adama science and technology.
+    company_url: 'https://www.astu.edu.et'
+    company_logo: astu
+    location: Adama, Ethiopia
+    date_start: '2018-02-01'
+    date_end: '2020-07-31'
+    description: Assisted data structure with python, Android Programming and Web programming courses for undergraduate students. Designed and tested communication, energy and control subsystem of a 3U cubesat.
+  
+  - title: Service Delivery Analyst
+    company: EQOS Global
+    company_url: 'https://www.eqosglobal.com'
+    company_logo: eqos
+    location: Addis Ababa, Ethiopia
+    date_start: '2017-12-01'
+    date_end: '2018-02-03'
+    description: My responsibilities were to studying company structure and design their databases. Compile, verify accuracy and insert sensitive information to database. Offered daily operations and systems support to company and personnel.
 
 design:
   columns: '2'

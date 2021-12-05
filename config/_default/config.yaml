@@ -4,8 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: YOHANNIS TELILA # Website name
-baseurl: 'https://example.com/' # Website URL
+baseurl: 'https://joetelila.com/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
+
 
 ############################
 ## LANGUAGE
