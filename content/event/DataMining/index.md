@@ -4,16 +4,15 @@ title: Identification of daily electricity usage patterns and anomaly detection
 event: Data Mining (309AA) Course peresentation
 event_url: https://docs.google.com/presentation/d/1aChuXegFpdR992LiAmBC7lIUsV_Lvf8G86-prO3Mdi8/edit?usp=sharing
 
-location: Wowchemy HQ
+location: Pisa, Italy
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Lungarno Antonio Pacinotti
+  city: Pisa
+  region: PI
+  postcode: '56126'
+  country: Italy
 
 summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -32,13 +31,16 @@ featured: false
 
 
 links:
-- icon: twitter
+- name: Slide
+  url: https://docs.google.com/presentation/d/1aChuXegFpdR992LiAmBC7lIUsV_Lvf8G86-prO3Mdi8/edit?usp=sharing
+
+- name: Github
+  icon : github
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: "1aChuXegFpdR992LiAmBC7lIUsV_Lvf8G86-prO3Mdi8"
-url_pdf: ""
-url_slides: ""
+  url: https://github.com/joetelila/data_mining_paper_review
+
+url_code: ""
+url_pdf: "https://github.com/joetelila/Reinforcement-Learning-unipi-paper-review/raw/main/RL2021%20-%20Presentation.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
@@ -46,7 +48,8 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: "https://github.com/joetelila/Reinforcement-Learning-unipi-paper-review/raw/main/RL2021%20-%20Presentation.pdf"
+
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
