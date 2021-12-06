@@ -19,6 +19,10 @@ article-style summary-link a{
 }
 
 
-.media.stream-item:not(:last-child) {
+.ml-3, .mx-3 {
+  pointer-events: none;
+}
+
+.card-simple .article-title, .media.stream-item .article-title {
   pointer-events: none;
 }
