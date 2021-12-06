@@ -29,7 +29,9 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
-  - name: Other
+  - name: Web and Mobile
+    tag: web_mobile
+  - name: Others
     tag: Demo
 
 design:
