@@ -50,7 +50,7 @@ feature:
   icon: "c++_f"
   icon_pack: "custom"
 - #description: 10%
-  icon: "python_f"
+  icon: "python"
   icon_pack: "custom"
   #name: "Python"
 # Uncomment to use emoji icons.
