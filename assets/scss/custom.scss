@@ -9,3 +9,16 @@ footer .powered-by {
     font-size: .67rem;
     color: white;
 }
+/* disable links on events*/
+.article-title a {
+  pointer-events: none;
+}
+
+article-style summary-link a{
+  pointer-events: none;
+}
+
+
+.media.stream-item:not(:last-child) {
+  pointer-events: none;
+}
