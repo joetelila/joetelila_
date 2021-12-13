@@ -31,7 +31,7 @@ feature:
   #name: "Tensorflow"
   #description: "90%"
 - #description: 90%
-  icon: "SpaCy_logo"
+  icon: "Apache_Spark_logo"
   icon_pack: "custom"
   #name: "Spacy"  
 - #description: 100%
