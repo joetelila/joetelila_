@@ -12,7 +12,12 @@ address:
   postcode: '56126'
   country: Italy
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: " Highlights
+• We propose a general data mining-based framework for mining real-time building electricity consumption data.
+• The framework aims to identify typical electricity load patterns and discover insightful knowledge hidden in the patterns.
+•Applications of the framework in three practical office buildings are presented.
+•The framework is potentially used for an early fault detection of anomalous electricity load profiles."
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -23,7 +28,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: []
+authors: [Xue Liu, Yong Ding, Hao Tang, Feng Xiao]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -33,6 +38,11 @@ featured: false
 links:
 - name: Slide
   url: https://docs.google.com/presentation/d/1aChuXegFpdR992LiAmBC7lIUsV_Lvf8G86-prO3Mdi8/edit?usp=sharing
+
+- name: YouTube
+  icon : youtube
+  icon_pack: fab
+  url: https://youtu.be/biyv5YnsYjI
 
 - name: Github
   icon : github
