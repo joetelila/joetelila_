@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: YOHANNIS TELILA # Website name
+title: YOHANNIS KIFLE TELILA # Website name
 baseurl: 'https://joetelila.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {2022} Yohannis Kifle Telila' # Footer text, e.g. '© {year} Me'
 
 
 ############################
