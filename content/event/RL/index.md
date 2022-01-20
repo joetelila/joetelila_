@@ -29,7 +29,7 @@ featured: false
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
-#  url: https://twitter.com/georgecushen
+#  url: https://twitter.com/joetelila
 url_code: "https://github.com/joetelila/Reinforcement-Learning-unipi-paper-review"
 url_pdf: ""
 url_slides: ""

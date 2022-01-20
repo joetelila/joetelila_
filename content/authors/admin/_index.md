@@ -74,4 +74,4 @@ I am a second year masters degree in computer science student at University of P
 
 I recieved my bachelor's degree in computer science from Addis Ababa University in 2017. During the course of my academic and career I managed to work on projects that I have listed below, where I learned valuable skills such as time management, team collaboration and making critical decisions. Whether working on academic, extracurricular, or professional projects, I apply proven communication, leadership and teamwork skills.
 
-{{< icon name="download" pack="fas" >}}[not ready yet] Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}Download my {{< staticref "uploads/resume_ytelila.pdf" "newtab" >}}resumé{{< /staticref >}}.

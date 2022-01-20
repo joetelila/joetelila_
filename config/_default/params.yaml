@@ -16,20 +16,11 @@ font_size: L
 
 site_type: Person
 local_business_type: 'yohannis Kifle telila'
-org_name: 'university of pisa'
-description: 'university of pisa Italy Yohannis Kifle Telila'
+org_name: 'university of pisa; Addis Ababa university'
+description: 'university of pisa Italy Yohannis Kifle Telila, Ethiopia'
 twitter: 'https://twitter.com/joetelila'
 
 # Contact (edit or remove options as required)
-
-email: joe.telila[at]gmail.com
-address:
-  street: Via Istria, 2
-  city: Pisa
-  region: PI
-  postcode: '56123'
-  country: Italy
-  country_code: IT
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
